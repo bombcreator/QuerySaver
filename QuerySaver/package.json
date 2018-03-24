@@ -1,0 +1,21 @@
+{
+  "name": "querysaver",
+  "version": "1.0.0",
+  "description": "A cool place for saving Query",
+  "main": "index.js",
+  "repository": "https://github.com/bombcreator/QuerySaver.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Query",
+    "Managment"
+  ],
+  "author": "ArashJp",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.1"
+  }
+}
