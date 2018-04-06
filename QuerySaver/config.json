@@ -1,0 +1,5 @@
+{
+  "connectionStrings": {
+    "QuerySaverConnectionString": "Server=ARASHJP-DESKTOP;Database=QuerySaver;User Id=sa;Password=123456"
+  }
+}
